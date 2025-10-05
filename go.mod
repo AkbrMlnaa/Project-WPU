@@ -2,6 +2,7 @@ module github.com/AkbrMlnaa/Project-WPU
 
 go 1.24.4
 
+
 require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/andybalholm/brotli v1.1.0 // indirect
